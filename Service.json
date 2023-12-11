@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "name": "Love",
+      "frames": [
+        {
+          "single_frames_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/f5NT9vpXXRmGzWsCyCrLvYsydGG3La.jpg",
+          "thumbnail_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/fOXMXMkD39UXJSHCJkEqMsoSPVBPrV.png"
+        },
+        {
+          "single_frames_image": "http://example.com/love_frame2.jpg",
+          "thumbnail_image": "http://example.com/love_frame2_thumb.jpg"
+        },
+        {
+          "single_frames_image": "http://example.com/love_frame3.jpg",
+          "thumbnail_image": "http://example.com/love_frame3_thumb.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Birthday",
+      "frames": [
+        {
+          "single_frames_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/f5NT9vpXXRmGzWsCyCrLvYsydGG3La.jpg",
+          "thumbnail_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/fOXMXMkD39UXJSHCJkEqMsoSPVBPrV.png"
+        }
+      ]
+    },
+    {
+      "name": "Christmas",
+      "frames": [
+        {
+          "single_frames_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/f5NT9vpXXRmGzWsCyCrLvYsydGG3La.jpg",
+          "thumbnail_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/fOXMXMkD39UXJSHCJkEqMsoSPVBPrV.png"
+        }
+      ]
+    },
+    {
+      "name": "Flower",
+      "frames": [
+        {
+          "single_frames_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/f5NT9vpXXRmGzWsCyCrLvYsydGG3La.jpg",
+          "thumbnail_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/fOXMXMkD39UXJSHCJkEqMsoSPVBPrV.png"
+        }
+      ]
+    }
+  ]
+}
