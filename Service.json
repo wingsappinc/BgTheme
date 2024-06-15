@@ -4,16 +4,28 @@
       "name": "Love",
       "frames": [
         {
-          "single_frames_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/f5NT9vpXXRmGzWsCyCrLvYsydGG3La.jpg",
-          "thumbnail_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/fOXMXMkD39UXJSHCJkEqMsoSPVBPrV.png"
+          "single_frames_image": "https://i.postimg.cc/cHC4jGMG/1.png"
         },
         {
-          "single_frames_image": "http://example.com/love_frame2.jpg",
-          "thumbnail_image": "http://example.com/love_frame2_thumb.jpg"
+          "single_frames_image": "https://i.postimg.cc/HLZ7j26H/10.png"
         },
         {
-          "single_frames_image": "http://example.com/love_frame3.jpg",
-          "thumbnail_image": "http://example.com/love_frame3_thumb.jpg"
+          "single_frames_image": "https://i.postimg.cc/HLZ7j26H/10.png"
+        },
+        {
+          "single_frames_image": "https://i.postimg.cc/HLZ7j26H/10.png"
+        },
+        {
+          "single_frames_image": "https://i.postimg.cc/HLZ7j26H/10.png"
+        },
+        {
+          "single_frames_image": "https://i.postimg.cc/HLZ7j26H/10.png"
+        },
+        {
+          "single_frames_image": "https://i.postimg.cc/HLZ7j26H/10.png"
+        },
+        {
+          "single_frames_image": "https://i.postimg.cc/76jGnLvW/11.png"
         }
       ]
     },
@@ -21,8 +33,7 @@
       "name": "Birthday",
       "frames": [
         {
-          "single_frames_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/f5NT9vpXXRmGzWsCyCrLvYsydGG3La.jpg",
-          "thumbnail_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/fOXMXMkD39UXJSHCJkEqMsoSPVBPrV.png"
+          "single_frames_image": "https://i.postimg.cc/ydD3RZGR/12.png"
         }
       ]
     },
@@ -30,8 +41,7 @@
       "name": "Christmas",
       "frames": [
         {
-          "single_frames_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/f5NT9vpXXRmGzWsCyCrLvYsydGG3La.jpg",
-          "thumbnail_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/fOXMXMkD39UXJSHCJkEqMsoSPVBPrV.png"
+          "single_frames_image": "https://i.postimg.cc/QxGKBVJB/15.png"
         }
       ]
     },
@@ -39,8 +49,7 @@
       "name": "Flower",
       "frames": [
         {
-          "single_frames_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/f5NT9vpXXRmGzWsCyCrLvYsydGG3La.jpg",
-          "thumbnail_image": "http://srsolutions.online/allinoneframesjkt/upload/frames/fOXMXMkD39UXJSHCJkEqMsoSPVBPrV.png"
+          "single_frames_image": "https://i.postimg.cc/QxGKBVJB/15.png"
         }
       ]
     }
